@@ -1,0 +1,14 @@
+2016-01-22 17:27:26,434 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\MyProject\nasa_lt\nasa\pom.xml
+2016-01-22 17:27:28,052 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: somunst:nasa:0.0.1-SNAPSHOT @ E:\MyProject\nasa_lt\nasa\pom.xml.
+2016-01-22 17:27:29,403 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nasa/src/main/java
+2016-01-22 17:27:29,408 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nasa/src/test/java
+2016-01-22 17:27:30,198 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-01-22 17:27:30,750 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-22 17:27:30,751 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MyProject\nasa_lt\nasa\src\main\resources
+2016-01-22 17:27:30,754 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-22 17:27:30,754 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MyProject\nasa_lt\nasa\src\test\resources
+2016-01-22 17:28:16,425 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-22 17:28:16,426 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MyProject\nasa_lt\nasa\src\main\resources
+2016-01-22 17:28:16,428 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-22 17:28:16,428 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MyProject\nasa_lt\nasa\src\test\resources
+2016-01-22 17:28:50,558 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: somunst:nasa:0.0.1-SNAPSHOT @ E:\MyProject\nasa_lt\nasa\pom.xml.
